@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ArchitecuralComponents</string>
+    <string name="action_delete">delete all</string>
+    <string name="item_not_saved">task was not saved because it is empty.</string>
+    <string name="hint_task">New Task</string>
+    <string name="btn_save">Save </string>
+</resources>
